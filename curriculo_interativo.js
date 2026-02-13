@@ -80,10 +80,7 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
 
 // Typing Effect
 const typingTexts = [
-  'Desenvolvedor Full Stack',
-  'Administrador de Banco de Dados',
-  'Especialista em Azure',
-  'Arquiteto de Soluções'
+  'Administrador de Banco de Dados'
 ];
 
 let currentTextIndex = 0;
